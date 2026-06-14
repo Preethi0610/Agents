@@ -1,0 +1,346 @@
+- generic [active] [ref=e1]:
+  - img:
+    - generic:
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+  - banner [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+      - generic [ref=e4]: Skip to content
+    - generic [ref=e5]:
+      - link "Visit Allrecipes' homepage" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e8]: Allrecipes
+        - img [ref=e9]
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - search [ref=e15]:
+            - generic [ref=e16]:
+              - generic [ref=e17]: Search the site
+              - textbox "Search the site" [ref=e18]:
+                - /placeholder: Find a recipe or ingredient
+              - button "Click to search" [ref=e19] [cursor=pointer]:
+                - img [ref=e20]
+        - listitem [ref=e22]:
+          - button "Newsletters" [ref=e23] [cursor=pointer]
+        - listitem [ref=e24]:
+          - link "Sweepstakes" [ref=e25] [cursor=pointer]:
+            - /url: /sweepstakes
+        - listitem [ref=e26]:
+          - link "Go to MyRecipes" [ref=e27] [cursor=pointer]:
+            - /url: https://www.myrecipes.com/
+            - img [ref=e28]
+            - img [ref=e30]
+    - generic [ref=e32]:
+      - generic [ref=e33]:
+        - button "Close menu for Allrecipes" [ref=e34] [cursor=pointer]:
+          - img [ref=e35]
+        - link "Visit Allrecipes' homepage" [ref=e38] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e39]: Allrecipes
+          - img [ref=e40]
+      - navigation "Header" [ref=e42]:
+        - search [ref=e44]:
+          - generic [ref=e45]:
+            - generic [ref=e46]: Search
+            - textbox "Search" [ref=e47]:
+              - /placeholder: What are you looking for?
+            - button "Click to search" [ref=e48] [cursor=pointer]:
+              - img [ref=e49]
+        - list [ref=e51]:
+          - listitem [ref=e52]:
+            - link "Dinners" [ref=e53] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/recipes/17562/dinner/
+              - text: Dinners
+              - img [ref=e54]
+          - listitem [ref=e56]:
+            - link "Meals" [ref=e57] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/recipes-a-z-6735880
+              - text: Meals
+              - img [ref=e58]
+          - listitem [ref=e60]:
+            - link "Ingredients" [ref=e61] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/ingredients-a-z-6740416
+              - text: Ingredients
+              - img [ref=e62]
+          - listitem [ref=e64]:
+            - link "Occasions" [ref=e65] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/recipes/85/holidays-and-events/
+              - text: Occasions
+              - img [ref=e66]
+          - listitem [ref=e68]:
+            - link "Cuisines" [ref=e69] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/cuisine-a-z-6740455
+              - text: Cuisines
+              - img [ref=e70]
+          - listitem [ref=e72]:
+            - link "Kitchen Tips" [ref=e73] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/in-the-kitchen-6653922
+              - text: Kitchen Tips
+              - img [ref=e74]
+          - listitem [ref=e76]:
+            - link "News" [ref=e77] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/food-news-trends/
+              - text: News
+              - img [ref=e78]
+          - listitem [ref=e80]:
+            - link "Features" [ref=e81] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/recipes/1642/everyday-cooking/
+              - text: Features
+              - img [ref=e82]
+          - listitem [ref=e84]:
+            - link "Video" [ref=e85] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/video
+          - listitem [ref=e86]:
+            - link "About Us" [ref=e87] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/about-us-6648102
+              - text: About Us
+              - img [ref=e88]
+          - listitem [ref=e90]:
+            - link "GET THE MAGAZINE" [ref=e91] [cursor=pointer]:
+              - /url: "#"
+        - list [ref=e93]:
+          - listitem [ref=e94]:
+            - link "Log In to Allrecipes Account" [ref=e95] [cursor=pointer]:
+              - /url: https://www.allrecipes.com/authentication/login?regSource=3675&relativeRedirectUrl=%2F404
+              - img [ref=e96]
+              - generic [ref=e98]: Log In to Allrecipes Account
+          - listitem [ref=e99]:
+            - button "Magazine" [ref=e100] [cursor=pointer]:
+              - generic [ref=e101]: Magazine
+              - img [ref=e102]
+          - listitem [ref=e104]:
+            - button "Newsletters" [ref=e105] [cursor=pointer]
+          - listitem [ref=e106]:
+            - link "Sweepstakes" [ref=e107] [cursor=pointer]:
+              - /url: /sweepstakes
+          - listitem [ref=e108]:
+            - link "Go to MyRecipes" [ref=e109] [cursor=pointer]:
+              - /url: https://www.myrecipes.com/
+              - img [ref=e110]
+              - img [ref=e112]
+        - generic [ref=e114]:
+          - generic [ref=e115]: Follow Us
+          - list [ref=e116]:
+            - listitem [ref=e117]:
+              - link "Visit Allrecipes's Facebook" [ref=e118] [cursor=pointer]:
+                - /url: https://www.facebook.com/allrecipes
+                - img [ref=e119]
+            - listitem [ref=e121]:
+              - link "Visit Allrecipes's Instagram" [ref=e122] [cursor=pointer]:
+                - /url: https://www.instagram.com/allrecipes/
+                - img [ref=e123]
+            - listitem [ref=e125]:
+              - link "Visit Allrecipes's Pinterest" [ref=e126] [cursor=pointer]:
+                - /url: https://www.pinterest.com/allrecipes/
+                - img [ref=e127]
+            - listitem [ref=e129]:
+              - link "Visit Allrecipes's TikTok" [ref=e130] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@allrecipes
+                - img [ref=e131]
+            - listitem [ref=e133]:
+              - link "Visit Allrecipes's YouTube" [ref=e134] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/allrecipes/videos
+                - img [ref=e135]
+            - listitem [ref=e137]:
+              - link "Visit Allrecipes's Flipboard" [ref=e138] [cursor=pointer]:
+                - /url: https://flipboard.com/@Allrecipes
+                - img [ref=e139]
+    - navigation "Header" [ref=e141]:
+      - list [ref=e143]:
+        - listitem [ref=e144]:
+          - link "Dinners" [ref=e145] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/recipes/17562/dinner/
+        - listitem [ref=e146]:
+          - link "Meals" [ref=e147] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/recipes-a-z-6735880
+        - listitem [ref=e148]:
+          - link "Ingredients" [ref=e149] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/ingredients-a-z-6740416
+        - listitem [ref=e150]:
+          - link "Occasions" [ref=e151] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/recipes/85/holidays-and-events/
+        - listitem [ref=e152]:
+          - link "Cuisines" [ref=e153] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/cuisine-a-z-6740455
+        - listitem [ref=e154]:
+          - link "Kitchen Tips" [ref=e155] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/in-the-kitchen-6653922
+        - listitem [ref=e156]:
+          - link "News" [ref=e157] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/food-news-trends/
+        - listitem [ref=e158]:
+          - link "Features" [ref=e159] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/recipes/1642/everyday-cooking/
+        - listitem [ref=e160]:
+          - link "Video" [ref=e161] [cursor=pointer]:
+            - /url: https://www.allrecipes.com/video
+      - link "About Us" [ref=e163] [cursor=pointer]:
+        - /url: /about-us-6648102
+      - link "GET THE MAGAZINE" [ref=e165] [cursor=pointer]:
+        - /url: "#"
+  - main [ref=e166]:
+    - generic [ref=e167]:
+      - img "404 Not Found" [ref=e170]
+      - heading "Oops! This isn’t all it was cracked up to be." [level=2] [ref=e171]
+      - paragraph [ref=e172]: The page you're looking for is unavailable. Please try again by using our menu or search options above.
+  - contentinfo [ref=e173]:
+    - generic [ref=e174]:
+      - generic [ref=e175]:
+        - link "Visit Allrecipes' homepage" [ref=e177] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e178]: Allrecipes
+          - img [ref=e179]
+        - button "Newsletters" [ref=e182] [cursor=pointer]:
+          - generic [ref=e183]: Newsletters
+        - generic [ref=e185]:
+          - generic [ref=e186]: Follow Us
+          - list [ref=e187]:
+            - listitem [ref=e188]:
+              - link "Visit Allrecipes's Facebook" [ref=e189] [cursor=pointer]:
+                - /url: https://www.facebook.com/allrecipes
+                - img [ref=e190]
+            - listitem [ref=e192]:
+              - link "Visit Allrecipes's Instagram" [ref=e193] [cursor=pointer]:
+                - /url: https://www.instagram.com/allrecipes/
+                - img [ref=e194]
+            - listitem [ref=e196]:
+              - link "Visit Allrecipes's Pinterest" [ref=e197] [cursor=pointer]:
+                - /url: https://www.pinterest.com/allrecipes/
+                - img [ref=e198]
+            - listitem [ref=e200]:
+              - link "Visit Allrecipes's TikTok" [ref=e201] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@allrecipes
+                - img [ref=e202]
+            - listitem [ref=e204]:
+              - link "Visit Allrecipes's YouTube" [ref=e205] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/allrecipes/videos
+                - img [ref=e206]
+            - listitem [ref=e208]:
+              - link "Visit Allrecipes's Flipboard" [ref=e209] [cursor=pointer]:
+                - /url: https://flipboard.com/@Allrecipes
+                - img [ref=e210]
+      - generic [ref=e212]:
+        - navigation "Footer" [ref=e213]:
+          - list [ref=e214]:
+            - listitem [ref=e215]:
+              - link "Dinners" [ref=e216] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/recipes/17562/dinner/
+            - listitem [ref=e217]:
+              - link "Meals" [ref=e218] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/recipes/
+            - listitem [ref=e219]:
+              - link "Ingredients" [ref=e220] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/recipes/17567/ingredients/
+            - listitem [ref=e221]:
+              - link "Occasions" [ref=e222] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/recipes/85/holidays-and-events/
+            - listitem [ref=e223]:
+              - link "Cuisines" [ref=e224] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/recipes/86/world-cuisine/
+            - listitem [ref=e225]:
+              - link "Kitchen Tips" [ref=e226] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/in-the-kitchen-6653922
+            - listitem [ref=e227]:
+              - link "News" [ref=e228] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/food-news-trends/
+            - listitem [ref=e229]:
+              - link "Features" [ref=e230] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/recipes/1642/everyday-cooking/
+            - listitem [ref=e231]:
+              - link "Video" [ref=e232] [cursor=pointer]:
+                - /url: https://www.allrecipes.com/video
+        - list [ref=e233]:
+          - listitem [ref=e234]:
+            - link "About Us" [ref=e235] [cursor=pointer]:
+              - /url: /about-us-6648102
+          - listitem [ref=e236]:
+            - link "Editorial Process" [ref=e237] [cursor=pointer]:
+              - /url: /about-us-6648102#toc-editorial-guidelines
+          - listitem [ref=e238]:
+            - link "Privacy Policy" [ref=e239] [cursor=pointer]:
+              - /url: https://www.people.inc/brands-privacy
+          - listitem [ref=e240]:
+            - link "Product Vetting" [ref=e241] [cursor=pointer]:
+              - /url: /about-us-6648102#toc-product-reviews
+          - listitem [ref=e242]:
+            - link "Terms of Service" [ref=e243] [cursor=pointer]:
+              - /url: https://www.people.inc/brands-termsofservice
+          - listitem [ref=e244]:
+            - link "Advertise" [ref=e245] [cursor=pointer]:
+              - /url: https://www.people.inc/brands/food-drink/allrecipes
+          - listitem [ref=e246]:
+            - link "Careers" [ref=e247] [cursor=pointer]:
+              - /url: https://www.people.inc/careers
+          - listitem [ref=e248]:
+            - link "Contact" [ref=e249] [cursor=pointer]:
+              - /url: /about-us-6648102#toc-contact-us
+          - listitem [ref=e250]:
+            - button "Your Privacy Choices Manage Your Privacy Choices" [ref=e251] [cursor=pointer]:
+              - text: Your Privacy Choices
+              - img "Manage Your Privacy Choices" [ref=e253]
+          - listitem [ref=e255]:
+            - link "Manage Your Magazine Subscription" [ref=e256] [cursor=pointer]:
+              - /url: https://w1.buysub.com/servlet/CSGateway?cds_mag_code=ALR
+          - listitem [ref=e257]:
+            - link "Magazine Subscription Help" [ref=e258] [cursor=pointer]:
+              - /url: https://www.magazines.com/customer-care
+    - generic [ref=e261]:
+      - img [ref=e262]
+      - generic [ref=e265]:
+        - text: Allrecipes is part of the
+        - link "People Inc." [ref=e266] [cursor=pointer]:
+          - /url: https://www.people.inc
+        - text: publishing family.

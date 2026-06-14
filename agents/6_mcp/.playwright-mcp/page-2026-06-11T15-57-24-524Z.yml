@@ -1,0 +1,415 @@
+- generic [active] [ref=e1]:
+  - dialog "Responsible use of your data" [ref=e2]:
+    - generic [ref=e3]:
+      - link "Cookiebot by Usercentrics - opens in a new window" [ref=e6] [cursor=pointer]:
+        - /url: https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2
+        - img [ref=e7]
+      - tabpanel "Consent" [ref=e34]:
+        - generic [ref=e36]:
+          - heading "Responsible use of your data" [level=2] [ref=e37]
+          - generic [ref=e38]:
+            - text: We and
+            - link "our 1280 partners" [ref=e39] [cursor=pointer]:
+              - /url: "#"
+            - text: process your personal data, e.g. your IP-number, using technology such as cookies to store and access information on your device in order to serve personalized ads and content, ad and content measurement, audience research and services development. You have a choice in who uses your data and for what purposes. Your privacy choices are only applicable on this digital property where you have made your choices. You can change or withdraw your consent any time from the Cookie Declaration or by clicking on the Privacy trigger icon.
+            - generic [ref=e40]:
+              - text: "If you allow, we would also like to:"
+              - list [ref=e41]:
+                - listitem [ref=e42]: Collect information about your geographical location which can be accurate to within several meters
+                - listitem [ref=e43]: Identify your device by actively scanning it for specific characteristics (fingerprinting)
+            - text: Find out more about how your personal data is processed and set your preferences in the
+            - link "details section" [ref=e44] [cursor=pointer]:
+              - /url: "#"
+            - text: .
+            - text: We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+        - generic [ref=e45]:
+          - group "Consent Selection" [ref=e51]:
+            - generic [ref=e52]: Consent Selection
+            - generic [ref=e53]:
+              - generic [ref=e54]:
+                - strong [ref=e56]: Necessary
+                - generic [ref=e57]:
+                  - checkbox "Necessary" [checked] [disabled]
+              - generic [ref=e58]:
+                - strong [ref=e60] [cursor=pointer]: Preferences
+                - switch "Preferences" [ref=e62] [cursor=pointer]
+              - generic [ref=e63]:
+                - strong [ref=e65] [cursor=pointer]: Statistics
+                - switch "Statistics" [ref=e67] [cursor=pointer]
+              - generic [ref=e68]:
+                - strong [ref=e70] [cursor=pointer]: Marketing
+                - switch "Marketing" [ref=e72] [cursor=pointer]
+          - link "Show details" [ref=e74] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e78]:
+        - button "Reject all" [ref=e79] [cursor=pointer]
+        - button "Allow selection" [ref=e80] [cursor=pointer]
+        - button "Allow all" [ref=e81] [cursor=pointer]
+  - iframe [ref=e82]:
+    
+  - link "Skip to content" [ref=e83] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e84]:
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - link "delicious. magazine" [ref=e87] [cursor=pointer]:
+          - /url: https://www.deliciousmagazine.co.uk
+          - img "delicious. magazine" [ref=e88]
+        - link "Login" [ref=e92] [cursor=pointer]:
+          - /url: https://www.deliciousmagazine.co.uk/login/
+      - navigation [ref=e93]:
+        - list [ref=e95]:
+          - listitem [ref=e96]:
+            - link "Recipes" [ref=e97] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/recipes/
+          - listitem [ref=e98]:
+            - link "January inspiration" [ref=e99] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/collections/january-seasonal-food/
+          - listitem [ref=e100]:
+            - link "Be a Better Cook" [ref=e101] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/skills/
+          - listitem [ref=e102]:
+            - link "Features" [ref=e103] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/features/
+          - listitem [ref=e104]:
+            - link "Guides" [ref=e105] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/guides/
+          - listitem [ref=e106]:
+            - link "Competitions" [ref=e107] [cursor=pointer]:
+              - /url: https://competitions.deliciousmagazine.co.uk/
+          - listitem [ref=e108]:
+            - link "Reviews" [ref=e109] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/reviews/
+      - search [ref=e111]:
+        - generic [ref=e112]:
+          - generic [ref=e113]: Search for
+          - textbox "Search for" [ref=e114]:
+            - /placeholder: Search recipes & more
+  - main [ref=e115]:
+    - generic [ref=e116]:
+      - generic [ref=e120]:
+        - link "Home" [ref=e122] [cursor=pointer]:
+          - /url: https://www.deliciousmagazine.co.uk/
+        - link "Recipes" [ref=e125] [cursor=pointer]:
+          - /url: https://www.deliciousmagazine.co.uk/recipes/
+        - link "Bananas" [ref=e128] [cursor=pointer]:
+          - /url: https://www.deliciousmagazine.co.uk/collections/banana-recipes/
+        - text: Banoffee pie
+      - article [ref=e130]:
+        - generic [ref=e132]:
+          - figure [ref=e134]:
+            - link "Save Recipe" [ref=e136] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/login/
+              - generic: Save Recipe
+              - img [ref=e137]
+            - img "Banoffee pie" [ref=e139]
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - heading "Banoffee pie" [level=1] [ref=e143]
+              - generic:
+                - link:
+                  - /url: "#reviews"
+            - generic [ref=e144]:
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - img [ref=e148]
+                  - text: "Portion size: Serves 10-12"
+                - listitem [ref=e151]:
+                  - img [ref=e153]
+                  - text: Hands-on time 50 min, oven time 21-28 min, plus chilling
+                - listitem [ref=e157]:
+                  - img [ref=e159]
+                  - text: "Difficulty:"
+                  - emphasis [ref=e163]: medium
+              - generic [ref=e164]:
+                - generic [ref=e165]:
+                  - link "Save" [ref=e167] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - text: Save
+                  - link "Print" [ref=e169] [cursor=pointer]:
+                    - /url: ""
+                    - text: Print
+                - button "Send" [ref=e172] [cursor=pointer]: Send
+        - generic [ref=e174]:
+          - paragraph [ref=e175]: Debbie Major’s banoffee pie recipe respects the original 1970s recipe, made with sweetened pastry rather than a biscuit-crumb base. And of course, it’s filled with caramel, banana and whipped cream…
+          - paragraph [ref=e176]: Ian Dowding, chef of the (now closed) Hungry Monk restaurant in Jevington, East Sussex, along with owner Nigel Mackenzie, is credited with inventing the banoffee pie in the early 1970s. The recipe, says Ian, evolved over time and was based on an American-style coffee/toffee pie made by a work colleague. Ian’s idea came about after a conversation with his sister about boiling unopened tins of condensed milk for hours until it turned to toffee. The brainwave of partnering that sauce with bananas, together with the original coffee-flavoured cream, plus a grated chocolate topping, came together and the now world-famous pie was created. The drizzled chocolate we’ve added isn’t traditional but is less bitter than the original freshly ground coffee decoration.
+          - paragraph [ref=e177]:
+            - text: Have you seen our epic
+            - link "banoffee cheesecake" [ref=e178] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/recipes/banoffee-cheesecake/
+            - text: "?"
+        - generic [ref=e179]:
+          - generic [ref=e182]:
+            - heading "Before you start" [level=2] [ref=e183]
+            - paragraph [ref=e184]: There’s nothing worse than a soggy bottom, so preheating the baking sheet guarantees a crisp pastry base.
+            - paragraph [ref=e185]: Stir the sauce continuously to prevent it from scorching on the bottom of the pan.
+            - paragraph [ref=e186]: Whip the cream until it just stands in soft peaks when the beaters are removed. It will firm up further in the fridge.
+            - paragraph [ref=e187]:
+              - strong [ref=e188]: How to jazz up your banoffee
+            - list [ref=e189]:
+              - listitem [ref=e190]: Add a little booze to the toffee sauce. Dark rum goes very well with bananas.
+              - listitem [ref=e191]: Add orange zest and a squeeze of orange juice to the toffee sauce or the whipped cream.
+              - listitem [ref=e192]: Use a no-bake cheesecake base instead of the pastry, adding a few lightly toasted chopped nuts to the mixture (pecans are particularly good).
+          - generic [ref=e194]:
+            - generic [ref=e195]:
+              - heading "Ingredients" [level=2] [ref=e196]
+              - paragraph [ref=e197]: For the pastry
+              - list [ref=e198]:
+                - listitem [ref=e199]: 175g plain flour, plus extra to dust
+                - listitem [ref=e200]: 50g icing sugar
+                - listitem [ref=e201]: 90g chilled butter, diced
+                - listitem [ref=e202]: 1 medium free-range egg yolk
+              - paragraph [ref=e203]: For the toffee filling
+              - list [ref=e204]:
+                - listitem [ref=e205]: 115g butter
+                - listitem [ref=e206]: 115g light muscovado sugar
+                - listitem [ref=e207]: 397g tin Carnation Caramel
+                - listitem [ref=e208]: ½ tsp sea salt (optional)
+              - paragraph [ref=e209]: For the topping
+              - list [ref=e210]:
+                - listitem [ref=e211]: 300ml double cream
+                - listitem [ref=e212]: 1 tsp instant coffee powder (not granules)
+                - listitem [ref=e213]: 2 tsp caster sugar
+                - listitem [ref=e214]: 4 large or 5 medium ripe bananas
+                - listitem [ref=e215]: 30g dark chocolate, chopped
+              - paragraph [ref=e216]: You’ll also need…
+              - list [ref=e217]:
+                - listitem [ref=e218]: 23cm loose-bottomed flan tin, at least 3cm deep, lightly greased
+            - generic [ref=e220]:
+              - heading "Method" [level=2] [ref=e221]
+              - list [ref=e222]:
+                - listitem [ref=e223]: Put a baking sheet on the middle shelf of the oven and heat the oven to 200°C/180°C fan/gas 6.
+                - listitem [ref=e224]: For the pastry, sift the flour, icing sugar and a pinch of salt into a food processor. Add the butter and pulse briefly until the mixture resembles fine breadcrumbs. (Alternatively, sift the flour and icing sugar into a large bowl and rub in the butter using your fingertips.) In a small bowl, beat the egg yolk briefly with 2 tbsp cold water. Tip the crumb mixture into a large bowl, add the egg yolk mixture and bring together into a ball. Turn out onto a lightly floured surface and knead briefly until smooth. Shape into a disc, wrap in cling film and chill for 15 minutes.
+                - listitem [ref=e225]: Once chilled, remove the pastry from the fridge, roll out to a circle 30cm wide and about 3mm thick, then use to line the prepared tin. Chill for another 15 minutes.
+                - listitem [ref=e226]:
+                  - generic [ref=e228]: Recipe continues after advertising
+                - listitem [ref=e229]: Line the pastry case with foil and a layer of baking beans or uncooked rice and bake for 15-20 minutes until the edge is biscuit-coloured. Carefully remove the foil and beans/rice and bake for 6-8 minutes more or until crisp and golden. Set aside to cool.
+                - listitem [ref=e230]: While the pastry case cools, make the toffee filling. Put the butter and sugar in a medium pan over a medium heat. Whisk continuously as the butter melts and the sugar dissolves until it comes together ina smooth toffee sauce with no trace of melted butter. Stir in the caramel, then bring to the boil and simmer for 3 minutes. Remove from the heat and stir in the sea salt, if using. Pour the filling into the case and chill for at least 1 hour before topping.
+                - listitem [ref=e231]: For the topping, whip together the cream, coffee powder and caster sugar until just forming soft peaks. Thickly slice the bananas and scatter them evenly over the toffee sauce. Spoon over the cream topping, taking it right to the edges and swirling it attractively as you go. Chill for 1 hour.
+                - listitem [ref=e232]: To serve, carefully remove the pie from the tin to a serving plate. Melt the chocolate in bursts in a microwave (or in a small bowl set over a pan of barely simmering water – don’t let the bowl touch the water), then drizzle it over the pie. Serve cut into wedges.
+            - generic [ref=e233]:
+              - heading "Nutrition" [level=2] [ref=e234]
+              - list [ref=e235]:
+                - listitem [ref=e236]:
+                  - generic [ref=e237]: 503kcals
+                  - generic [ref=e238]: Calories
+                - listitem [ref=e239]:
+                  - generic [ref=e240]: 30.9g (19.1g saturated)
+                  - generic [ref=e241]: Fat
+                - listitem [ref=e242]:
+                  - generic [ref=e243]: 2.8g
+                  - generic [ref=e244]: Protein
+                - listitem [ref=e245]:
+                  - generic [ref=e246]: 52.9g (40.8g sugars)
+                  - generic [ref=e247]: Carbs
+                - listitem [ref=e248]:
+                  - generic [ref=e249]: 1.2g
+                  - generic [ref=e250]: Fibre
+                - listitem [ref=e251]:
+                  - generic [ref=e252]: 0.3g
+                  - generic [ref=e253]: Salt
+              - paragraph [ref=e255]: For 12
+          - generic [ref=e257]:
+            - heading "Make Ahead" [level=2] [ref=e258]
+            - paragraph [ref=e259]: Make the toffee filling up to 3 days in advance and keep in a sealed jar or tub in the fridge. Don’t put into the tart case or it will go soggy. Instead, bake the case 1-2 days ahead and store in a tin or wrapped in foil, then assemble.
+          - generic [ref=e263]:
+            - generic [ref=e264]:
+              - heading "Alternative recipes" [level=2] [ref=e265]
+              - generic [ref=e266]:
+                - img [ref=e268]
+                - img [ref=e271]
+            - generic [ref=e274]:
+              - generic [ref=e276]:
+                - generic [ref=e277]:
+                  - link "Save Recipe" [ref=e279] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - generic: Save Recipe
+                    - img [ref=e280]
+                  - link "Mini banoffee Baileys pies" [ref=e282] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/mini-banoffee-baileys-pies/
+                    - img "Mini banoffee Baileys pies" [ref=e283]
+                - heading "Mini banoffee Baileys pies" [level=3] [ref=e284]:
+                  - link "Mini banoffee Baileys pies" [ref=e285] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/mini-banoffee-baileys-pies/
+              - generic [ref=e287]:
+                - generic [ref=e288]:
+                  - link "Save Recipe" [ref=e290] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - generic: Save Recipe
+                    - img [ref=e291]
+                  - link "banoffee millionaire's shortbread" [ref=e293] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/banoffee-millionaires-shortbread/
+                    - img "banoffee millionaire's shortbread" [ref=e294]
+                - heading "Banoffee millionaire’s shortbread" [level=3] [ref=e295]:
+                  - link "Banoffee millionaire’s shortbread" [ref=e296] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/banoffee-millionaires-shortbread/
+              - generic [ref=e298]:
+                - generic [ref=e299]:
+                  - link "Save Recipe" [ref=e301] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - generic: Save Recipe
+                    - img [ref=e302]
+                  - link "Banoffee pie" [ref=e304] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/banoffee-roulade-with-mocha-cream/
+                    - img "Banoffee pie" [ref=e305]
+                - heading "Banoffee roulade with mocha cream" [level=3] [ref=e306]:
+                  - link "Banoffee roulade with mocha cream" [ref=e307] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/banoffee-roulade-with-mocha-cream/
+              - generic [ref=e309]:
+                - generic [ref=e310]:
+                  - link "Save Recipe" [ref=e312] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - generic: Save Recipe
+                    - img [ref=e313]
+                  - link "Banoffee pies" [ref=e315] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/mini-oreo-banoffee-pies/
+                    - img "Banoffee pies" [ref=e316]
+                - heading "Mini Oreo banoffee pies" [level=3] [ref=e317]:
+                  - link "Mini Oreo banoffee pies" [ref=e318] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/mini-oreo-banoffee-pies/
+              - generic [ref=e320]:
+                - generic [ref=e321]:
+                  - link "Save Recipe" [ref=e323] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - generic: Save Recipe
+                    - img [ref=e324]
+                  - link "Overhead view of easy banoffee sheet tart" [ref=e326] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/easy-banoffee-sheet-tart/
+                    - img "Overhead view of easy banoffee sheet tart" [ref=e327]
+                - heading "Easy banoffee sheet tart" [level=3] [ref=e328]:
+                  - link "Easy banoffee sheet tart" [ref=e329] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/easy-banoffee-sheet-tart/
+              - generic [ref=e331]:
+                - generic [ref=e332]:
+                  - link "Save Recipe" [ref=e334] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/login/
+                    - generic: Save Recipe
+                    - img [ref=e335]
+                  - link "Italian custard pie" [ref=e337] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/italian-custard-pie/
+                    - img "Italian custard pie" [ref=e338]
+                - heading "Italian custard pie" [level=3] [ref=e339]:
+                  - link "Italian custard pie" [ref=e340] [cursor=pointer]:
+                    - /url: https://www.deliciousmagazine.co.uk/recipes/italian-custard-pie/
+          - generic [ref=e343]:
+            - heading "Rate and review" [level=2] [ref=e344]
+            - generic [ref=e345]:
+              - heading "Rate" [level=3] [ref=e346]
+              - paragraph [ref=e347]:
+                - text: You must be logged in to rate a recipe,
+                - link "click here to login" [ref=e348] [cursor=pointer]:
+                  - /url: https://www.deliciousmagazine.co.uk/login/?redirect_to=https%3A%2F%2Fwww.deliciousmagazine.co.uk%2Frecipes%2Fbanoffee-pie%2F
+                - text: .
+            - generic [ref=e350]:
+              - heading "Leave a comment, question or tip" [level=3] [ref=e351]: Leave a comment, question or tip
+              - generic [ref=e352]:
+                - paragraph [ref=e353]:
+                  - textbox "Something to say? Tell us what you loved about this. Inspire others, get typing" [disabled] [ref=e354]
+                - paragraph [ref=e355]:
+                  - button "Submit" [disabled] [ref=e356] [cursor=pointer]
+      - generic [ref=e359]:
+        - heading "Just for you" [level=2] [ref=e360]
+        - paragraph [ref=e361]: Looking for inspiration? Receive the latest recipes straight to your inbox with our newsletter
+        - generic [ref=e363]:
+          - textbox "Email" [ref=e364]
+          - button "Sign me up" [ref=e365] [cursor=pointer]
+        - paragraph [ref=e367]:
+          - text: By joining our newsletter you agree to our
+          - link "Privacy Policy" [ref=e368] [cursor=pointer]:
+            - /url: /privacy-policy/
+      - generic [ref=e372]:
+        - generic [ref=e373]:
+          - heading "You might like" [level=2] [ref=e374]
+          - generic [ref=e375]:
+            - img [ref=e377]
+            - img [ref=e380]
+        - generic [ref=e383]:
+          - generic [ref=e385]:
+            - link "Valentine's dessert recipes" [ref=e387] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/14-desserts-to-make-your-valentine-swoon/
+              - img "Valentine's dessert recipes" [ref=e388]
+            - heading "14 desserts to make your Valentine swoon" [level=3] [ref=e389]:
+              - link "14 desserts to make your Valentine swoon" [ref=e390] [cursor=pointer]:
+                - /url: https://www.deliciousmagazine.co.uk/14-desserts-to-make-your-valentine-swoon/
+          - generic [ref=e392]:
+            - link "Banoffee pie" [ref=e394] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/how-to-make-sweet-pastry/
+              - img "Banoffee pie" [ref=e395]
+            - heading "How to make sweet pastry" [level=3] [ref=e396]:
+              - link "How to make sweet pastry" [ref=e397] [cursor=pointer]:
+                - /url: https://www.deliciousmagazine.co.uk/how-to-make-sweet-pastry/
+      - generic [ref=e400]:
+        - generic [ref=e401]:
+          - heading "More inspiration" [level=2] [ref=e402]
+          - generic [ref=e403]:
+            - img [ref=e405]
+            - img [ref=e408]
+        - generic [ref=e411]:
+          - generic [ref=e413]:
+            - link "Banana recipes" [ref=e415] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/collections/banana-recipes/
+              - img "Banana recipes" [ref=e416]
+            - heading "Banana recipes" [level=3] [ref=e417]:
+              - link "Banana recipes" [ref=e418] [cursor=pointer]:
+                - /url: https://www.deliciousmagazine.co.uk/collections/banana-recipes/
+          - generic [ref=e420]:
+            - link "Blueberry and peach pie" [ref=e422] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/collections/sweet-pie-recipes/
+              - img "Blueberry and peach pie" [ref=e423]
+            - heading "Sweet pie recipes" [level=3] [ref=e424]:
+              - link "Sweet pie recipes" [ref=e425] [cursor=pointer]:
+                - /url: https://www.deliciousmagazine.co.uk/collections/sweet-pie-recipes/
+          - generic [ref=e427]:
+            - link "Ideas for make-ahead dessert recipes including a strawberry daiquiri tart" [ref=e429] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/collections/make-ahead-dessert-recipes/
+              - img "Ideas for make-ahead dessert recipes including a strawberry daiquiri tart" [ref=e430]
+            - heading "Make-ahead dessert recipes" [level=3] [ref=e431]:
+              - link "Make-ahead dessert recipes" [ref=e432] [cursor=pointer]:
+                - /url: https://www.deliciousmagazine.co.uk/collections/make-ahead-dessert-recipes/
+          - generic [ref=e434]:
+            - link "Arctic roll - retro pudding" [ref=e436] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/collections/retro-puddings/
+              - img "Arctic roll - retro pudding" [ref=e437]
+            - heading "Retro puddings" [level=3] [ref=e438]:
+              - link "Retro puddings" [ref=e439] [cursor=pointer]:
+                - /url: https://www.deliciousmagazine.co.uk/collections/retro-puddings/
+      - heading "More to discover" [level=2] [ref=e443]
+  - contentinfo [ref=e444]:
+    - generic [ref=e445]:
+      - navigation [ref=e446]:
+        - list [ref=e448]:
+          - listitem [ref=e449]:
+            - link "About" [ref=e450] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/about/
+          - listitem [ref=e451]:
+            - link "Food team" [ref=e452] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/meet-the-food-team/
+          - listitem [ref=e453]:
+            - link "Contact" [ref=e454] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/contact/
+          - listitem [ref=e455]:
+            - link "Sitemap" [ref=e456] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/sitemap/
+          - listitem [ref=e457]:
+            - link "Cookies" [ref=e458] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/cookie-policy/
+          - listitem [ref=e459]:
+            - link "Privacy policy" [ref=e460] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/privacy-policy/
+          - listitem [ref=e461]:
+            - link "Advertise" [ref=e462] [cursor=pointer]:
+              - /url: https://www.deliciousmagazine.co.uk/want-to-advertise-with-delicious/
+      - list [ref=e463]:
+        - listitem [ref=e464]:
+          - link "TikTok" [ref=e465] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@deliciousmag/
+            - img "TikTok" [ref=e466]
+        - listitem [ref=e468]:
+          - link "Facebook" [ref=e469] [cursor=pointer]:
+            - /url: https://www.facebook.com/deliciousmagazineuk/
+            - img "Facebook" [ref=e470]
+        - listitem [ref=e472]:
+          - link "Instagram" [ref=e473] [cursor=pointer]:
+            - /url: https://www.instagram.com/deliciousmag/
+            - img "Instagram" [ref=e474]
+      - paragraph [ref=e476]: delicious. magazine is a part of Eye to Eye Media Ltd © 2025

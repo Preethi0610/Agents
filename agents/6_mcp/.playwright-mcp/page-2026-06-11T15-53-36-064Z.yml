@@ -1,0 +1,186 @@
+- generic [active] [ref=e1]:
+  - img:
+    - generic:
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+      - generic:
+        - img
+  - banner [ref=e2]:
+    - link "Skip to content" [ref=e3] [cursor=pointer]:
+      - /url: "#main"
+      - generic [ref=e4]: Skip to content
+    - generic [ref=e5]:
+      - link "Visit Simply Recipes' homepage" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e8]: Simply Recipes
+        - img [ref=e9]
+      - list [ref=e12]:
+        - listitem [ref=e13]:
+          - button "Search" [ref=e15] [cursor=pointer]:
+            - img [ref=e16]
+        - listitem [ref=e18]:
+          - button "Newsletters" [ref=e19] [cursor=pointer]
+        - listitem [ref=e20]:
+          - link "Sweepstakes" [ref=e21] [cursor=pointer]:
+            - /url: /sweepstakes
+        - listitem [ref=e22]:
+          - link "Go to MyRecipes" [ref=e23] [cursor=pointer]:
+            - /url: https://www.myrecipes.com/
+            - img [ref=e24]
+            - img [ref=e26]
+    - navigation "Header" [ref=e28]:
+      - list [ref=e30]:
+        - listitem [ref=e31]:
+          - link "Recipe of the Day" [ref=e32] [cursor=pointer]:
+            - /url: https://www.simplyrecipes.com/recipes-5090746
+        - listitem [ref=e33]:
+          - link "Recipes" [ref=e34] [cursor=pointer]:
+            - /url: https://www.simplyrecipes.com/recipes-5090746
+        - listitem [ref=e35]:
+          - link "In The Kitchen" [ref=e36] [cursor=pointer]:
+            - /url: https://www.simplyrecipes.com/cooking-how-tos-5090751
+        - listitem [ref=e37]:
+          - link "Food News" [ref=e38] [cursor=pointer]:
+            - /url: https://www.simplyrecipes.com/food-news-5206565
+        - listitem [ref=e39]:
+          - link "The 2026 Freezies Award" [ref=e40] [cursor=pointer]:
+            - /url: https://www.simplyrecipes.com/freezies-2026-11903212
+      - link "About Us" [ref=e42] [cursor=pointer]:
+        - /url: /about-us-5096129
+  - main [ref=e43]:
+    - generic [ref=e44]:
+      - img [ref=e45]
+      - heading "Page Not Found" [level=2] [ref=e47]
+      - paragraph [ref=e48]: The page you're looking for is unavailable. You might find what you're looking for by using our menu or search options.
+  - contentinfo [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - link "Visit Simply Recipes' homepage" [ref=e53] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e54]: Simply Recipes
+          - img [ref=e55]
+        - button "Newsletters" [ref=e58] [cursor=pointer]:
+          - generic [ref=e59]: Newsletters
+        - generic [ref=e61]:
+          - heading "Follow Us" [level=2] [ref=e62]
+          - list [ref=e63]:
+            - listitem [ref=e64]:
+              - link "Visit Simply Recipes's Instagram" [ref=e65] [cursor=pointer]:
+                - /url: https://www.instagram.com/simplyrecipes
+                - img [ref=e66]
+            - listitem [ref=e68]:
+              - link "Visit Simply Recipes's Facebook" [ref=e69] [cursor=pointer]:
+                - /url: https://www.facebook.com/simplyrecipes
+                - img [ref=e70]
+            - listitem [ref=e72]:
+              - link "Visit Simply Recipes's YouTube" [ref=e73] [cursor=pointer]:
+                - /url: https://www.youtube.com/c/simplyrecipes
+                - img [ref=e74]
+            - listitem [ref=e76]:
+              - link "Visit Simply Recipes's Pinterest" [ref=e77] [cursor=pointer]:
+                - /url: https://www.pinterest.com/simplyrecipes
+                - img [ref=e78]
+      - generic [ref=e80]:
+        - navigation "Footer" [ref=e81]:
+          - list [ref=e82]:
+            - listitem [ref=e83]:
+              - link "Recipes" [ref=e84] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/recipes-5090746
+            - listitem [ref=e85]:
+              - link "Quick & Easy" [ref=e86] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/recipes-by-time-and-ease-5090817
+            - listitem [ref=e87]:
+              - link "In the Kitchen" [ref=e88] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/cooking-how-tos-5090751
+            - listitem [ref=e89]:
+              - link "Buying Guides" [ref=e90] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/kitchen-food-buying-guides-5090755
+            - listitem [ref=e91]:
+              - link "Holidays & Seasons" [ref=e92] [cursor=pointer]:
+                - /url: https://www.simplyrecipes.com/holiday-and-seasonal-recipes-5091321
+        - list [ref=e93]:
+          - listitem [ref=e94]:
+            - link "About Us" [ref=e95] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/about-us-5096129
+          - listitem [ref=e96]:
+            - link "Advertise" [ref=e97] [cursor=pointer]:
+              - /url: https://www.people.inc/advertising
+          - listitem [ref=e98]:
+            - link "Terms of Service" [ref=e99] [cursor=pointer]:
+              - /url: https://www.people.inc/brands-termsofservice
+          - listitem [ref=e100]:
+            - link "Careers" [ref=e101] [cursor=pointer]:
+              - /url: https://www.people.inc/careers
+          - listitem [ref=e102]:
+            - link "Editorial Guidelines" [ref=e103] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/about-us-5096129#toc-recipe-development--testing
+          - listitem [ref=e104]:
+            - link "Sweepstakes" [ref=e105] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/sweepstakes
+          - listitem [ref=e106]:
+            - link "Privacy Policy" [ref=e107] [cursor=pointer]:
+              - /url: https://www.people.inc/brands-privacy
+          - listitem [ref=e108]:
+            - link "Contact" [ref=e109] [cursor=pointer]:
+              - /url: https://www.simplyrecipes.com/about-us-5096129#toc-contact-us
+          - listitem [ref=e110]:
+            - button "Your Privacy Choices Manage Your Privacy Choices" [ref=e111] [cursor=pointer]:
+              - text: Your Privacy Choices
+              - img "Manage Your Privacy Choices" [ref=e113]
+    - generic [ref=e117]:
+      - img [ref=e118]
+      - generic [ref=e121]:
+        - text: Simply Recipes is part of the
+        - link "People Inc." [ref=e122] [cursor=pointer]:
+          - /url: https://www.people.inc
+        - text: publishing family.

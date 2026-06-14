@@ -1,0 +1,13 @@
+- generic [ref=e2]:
+  - separator [ref=e3]
+  - iframe [active] [ref=e8]
+  - separator [ref=e9]
+  - generic [ref=e10]:
+    - text: About this page
+    - text: Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot.
+    - link "Why did this happen?" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e12]:
+      - text: "IP address: 2600:8805:d289:a200:2c41:94c6:3ffe:e334"
+      - text: "Time: 2026-06-11T15:49:15Z"
+      - text: "URL: https://www.google.com/search?q=best+banoffee+pie+recipe&sei=-NgqauaPB5SliLMPt8KIqQ8"

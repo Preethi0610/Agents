@@ -1,0 +1,59 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - link "taste.com.au" [ref=e5] [cursor=pointer]:
+      - /url: /
+      - img "taste.com.au" [ref=e6]
+    - textbox "Search by recipe, ingredient or keyword" [ref=e11]
+    - generic [ref=e13]:
+      - generic [ref=e14]:
+        - link "Sign up" [ref=e15] [cursor=pointer]:
+          - /url: "#"
+        - link "Log in" [ref=e17] [cursor=pointer]:
+          - /url: "#"
+      - link [ref=e18] [cursor=pointer]:
+        - /url: "#"
+      - link [ref=e20] [cursor=pointer]:
+        - /url: "#"
+  - navigation [ref=e22]:
+    - list [ref=e23]:
+      - listitem [ref=e24]:
+        - link "Recipes" [ref=e25] [cursor=pointer]:
+          - /url: /recipes
+          - text: Recipes
+      - listitem [ref=e27]:
+        - link "Dinner" [ref=e28] [cursor=pointer]:
+          - /url: /dinner
+      - listitem [ref=e29]:
+        - link "Quick & Easy" [ref=e30] [cursor=pointer]:
+          - /url: /quick-easy
+      - listitem [ref=e31]:
+        - link "Healthy" [ref=e32] [cursor=pointer]:
+          - /url: /healthy
+      - listitem [ref=e33]:
+        - link "Cheap & Tasty" [ref=e34] [cursor=pointer]:
+          - /url: /cheap-tasty
+      - listitem [ref=e35]:
+        - link "Top Picks" [ref=e36] [cursor=pointer]:
+          - /url: /top-picks
+      - listitem [ref=e37]:
+        - link "Test Kitchen" [ref=e38] [cursor=pointer]:
+          - /url: /taste-test-kitchen
+          - text: Test Kitchen
+      - listitem [ref=e40]:
+        - link "News" [ref=e41] [cursor=pointer]:
+          - /url: /food-news
+          - text: News
+      - listitem [ref=e43]:
+        - link "Slow cooker" [ref=e44] [cursor=pointer]:
+          - /url: https://www.taste.com.au/dinner/galleries/iconic-slow-cooker-recipes-australians-have-saved-thousands-times-over/jnj63nm9
+  - generic [ref=e46]:
+    - generic [ref=e47]:
+      - heading "Oops, something went wrong!" [level=1] [ref=e48]
+      - heading "404 Not Found" [level=2] [ref=e49]
+    - main [ref=e50]:
+      - generic [ref=e52]:
+        - text: Try browsing our recipe collections to find the perfect dish!
+        - link "Recipe Collections" [ref=e53] [cursor=pointer]:
+          - /url: /recipes/collections
+      - img "error image" [ref=e56]
+  - iframe
