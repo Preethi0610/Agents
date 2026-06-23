@@ -61,6 +61,8 @@ This was the final project. I built a trading system with 4 agents,
   </tr>
 </table>
 
+<img width="1609" height="717" alt="personal coworker" src="https://github.com/user-attachments/assets/70a9e5af-61a5-4647-9ead-fb97e3f40462" />
+
 ## Credits
 
 Big thank you to Ed Donner, instructor on Udemy for this course.
