@@ -50,16 +50,16 @@ an idea and it builds the agent for you.
 This was the final project. I built a trading system with 4 agents,
 6 MCP servers, and 44 tools that make trading decisions on their own.
 
-<img width="1680" height="1050" alt="deep research agent -1" src="https://github.com/user-attachments/assets/b89ad66c-cf61-491e-bb60-2e972a28f29a" />
-
-<img width="1680" height="1050" alt="deep research agent -2" src="https://github.com/user-attachments/assets/b7cec883-11f0-4848-b937-20a6b6d42158" />
-
-<img width="1680" height="1050" alt="deep research agent - 3" src="https://github.com/user-attachments/assets/7f9d7737-66ed-418a-807b-9a097c377d76" />
-
-<img width="1680" height="1050" alt="deep research agent - 4" src="https://github.com/user-attachments/assets/ece066e6-17f5-45d6-a942-b3f89585eb11" />
-
-
-
+<table>
+  <tr>
+    <td><img width="400" alt="deep research agent -1" src="https://github.com/user-attachments/assets/b89ad66c-cf61-491e-bb60-2e972a28f29a" /></td>
+    <td><img width="400" alt="deep research agent -2" src="https://github.com/user-attachments/assets/b7cec883-11f0-4848-b937-20a6b6d42158" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="deep research agent - 3" src="https://github.com/user-attachments/assets/7f9d7737-66ed-418a-807b-9a097c377d76" /></td>
+    <td><img width="400" alt="deep research agent - 4" src="https://github.com/user-attachments/assets/ece066e6-17f5-45d6-a942-b3f89585eb11" /></td>
+  </tr>
+</table>
 ## Credits
 
 Big thank you to Ed Donner, instructor on Udemy for this course.
