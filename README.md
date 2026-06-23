@@ -60,6 +60,7 @@ This was the final project. I built a trading system with 4 agents,
     <td><img width="400" alt="deep research agent - 4" src="https://github.com/user-attachments/assets/ece066e6-17f5-45d6-a942-b3f89585eb11" /></td>
   </tr>
 </table>
+
 ## Credits
 
 Big thank you to Ed Donner, instructor on Udemy for this course.
